@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.maruya.apx",
+      "sha256_cert_fingerprints": [
+        "7c799ce3640cefbbddac18123c0ebcdd0e28e90256177e00d7f45e4f99a367f1"
+      ]
+    }
+  }
+]
